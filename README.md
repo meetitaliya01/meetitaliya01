@@ -1,14 +1,13 @@
+![logo](https://github.com/meetitaliya01/meetitaliya01/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Meet italiya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 
--🎯 .NET Developer | ASP.NET Core | C# | SQL Server  
+-🎯 .NET Developer | ASP.NET Core | C# | SQL Server | Clean Architecture | LINQ | REST APIs
 
--💼 Currently working on QMS project (Quality Management System)  
+-💼 Currently working on QMS project (Quality Management System)   
 
--🌱 Learning: Clean Architecture, gRPC, and Minimal APIs 
-
--🌱 I’m currently learning **.Net Framwok 9.0 and Javascript**
+-🌱 I’m currently learning ** .Net Framwok 9.0, Minimal APIs and Javascript**
 
 - 📫 How to reach me **meetitaliya90@gmail.com**
 
